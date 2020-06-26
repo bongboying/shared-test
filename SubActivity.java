@@ -8,6 +8,7 @@ public class SubActivity extends Activity {
         // upstream/dev_master로 설정하여
         // 새로운 주석을 추가함 - Push upstream 실패
 
+        // dev_master branch로 수정
     }
 
 }
