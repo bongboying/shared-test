@@ -1,8 +1,8 @@
 public class SubActivity extends Activity {
 
     public onCreate() {
-        // Master 소속 branch에서 작업
         setContentView(activity_sub);
-        // 한번만 더 시도
+        // dev_bongboying branch를 통해 작업
+        // pull request를 요청함
     }
 }
