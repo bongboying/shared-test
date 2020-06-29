@@ -1,8 +1,7 @@
 public class MainActivity extends Activity {
 
     public onCreate() {
-        // Master 소속 branch에서 작업
-        // 한번만 더 시도
-        // 한 번만 더 시도
+        // 있었던 내용을 지움
+        // (Master Branch에서 직접 작업)
     }
 }
